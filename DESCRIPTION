@@ -1,0 +1,18 @@
+Package: build.model.web
+Title: {{ Title }}
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ngoc Binh",
+           family = "Nguyen",
+           role = c("cre", "aut"),
+           email = "nguyenngocbinhneu@gmail.com")
+Description: {{ Description }}
+License: MIT + file LICENSE
+URL: https://github.com/nguyenngocbinh/build.model.web/
+BugReports: 
+    https://github.com/nguyenngocbinh/build.model.web/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+LazyData: true
